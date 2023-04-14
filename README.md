@@ -4,7 +4,7 @@
 
 3. add your bot token in TOKEN_HERE
 
-4. add ur id 
+4. add ur discord id(TURN ON DEV MODE) 
 
 5. Run the MusicBot again and it should load and make ur bot online and working
 
