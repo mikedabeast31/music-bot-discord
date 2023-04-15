@@ -1,4 +1,4 @@
-1. Double Click MusicBot (YOU MUST HAVE PYTHON!)
+1.  Double Click MusicBot (YOU MUST HAVE PYTHON! AND RUN SETUP.EXE FIRST SO IT CAN PIP INSTALL EVERYTHING)
 
 2. wait for the python to load and it should open up visual studio
 
